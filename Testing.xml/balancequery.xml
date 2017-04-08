@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <balanceQueryRequest>
 <destinationInstitutionCode>FRT</destinationInstitutionCode>
-<authorizationCode>8024</authorizationCode>
+<authorizationCode>8025</authorizationCode>
 <targetAccountName>Arinze Agabaenwere</targetAccountName>
 <targetAccountNumber>2341000008021</targetAccountNumber>
 <targetBankVerificationNumber></targetBankVerificationNumber>
